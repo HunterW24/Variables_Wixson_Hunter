@@ -1,0 +1,14 @@
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.AssemblyInfoInputs.cache
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.AssemblyInfo.cs
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.csproj.CoreCompileInputs.cache
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\bin\Debug\net6.0\Variables_Wixson_Hunter.exe
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\bin\Debug\net6.0\Variables_Wixson_Hunter.deps.json
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\bin\Debug\net6.0\Variables_Wixson_Hunter.runtimeconfig.json
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\bin\Debug\net6.0\Variables_Wixson_Hunter.dll
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\bin\Debug\net6.0\Variables_Wixson_Hunter.pdb
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.dll
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\refint\Variables_Wixson_Hunter.dll
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.pdb
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\Variables_Wixson_Hunter.genruntimeconfig.cache
+C:\Users\HunterWixson\Downloads\Variables_Wixson_Hunter\Variables_Wixson_Hunter\obj\Debug\net6.0\ref\Variables_Wixson_Hunter.dll
